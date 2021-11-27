@@ -56,13 +56,13 @@ h1 {
 @media (min-width: 768px) and (max-width: 991px){
     .box {
         width: 40%;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
     }
 }
 
 @media (max-width: 767px){
     .box {
         width: 100%;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
     }
 }
